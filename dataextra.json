@@ -1,0 +1,468 @@
+[{
+    "_id": "6704c291ea1210ac9bea8e7c",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/annaatthe-et00127667-24-10-2021-09-39-42.jpg",
+    "title": "Annaatthe",
+    "director": "Sivakumar Jayakumar",
+    "description": "A local leader and his younger sister are inseparable, but as they begin to plan for her wedding, arising complications threaten to rupture their bond.",
+    "year": 2021,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c31eea1210ac9bea8e7d",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vikram-et00138591-22-07-2021-11-45-18.jpg",
+    "title": "Vikram",
+    "director": "Lokesh Kanagaraj",
+    "description": "A high-octane action film where a special investigator is assigned a case of serial Killings. As the investigation proceeds, he finds the case is not what it seems to be and leading down this path is only going to end in a war between everyone involved.",
+    "year": 2021,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c352ea1210ac9bea8e7e",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/indian-2-et00064311-1720515688.jpg",
+    "title": "Indian 2",
+    "director": "Shankar Shanmugham",
+    "description": "In this sequel to the 1996 film Indian, Kamal Hassan reprises his role as Senapathy, an ex-freedom fighter turned vigilante who fights against corruption. Senapathy returns to the country to aid a young man who has been exposing corrupt politicians in the country through videos on the internet.",
+    "year": 2021,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c3e6ea1210ac9bea8e7f",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/indian-et00001890-1717409179.jpg",
+    "title": "Indian",
+    "director": "Shankar Shanmugham",
+    "description": "An honest veteran who served in the Indian Army decides to teach corrupt officials a lesson.",
+    "year": 1996,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c416ea1210ac9bea8e80",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/terminator-et00080990-02-08-2018-09-42-35.jpg",
+    "title": "Terminator: Dark Fate",
+    "director": "Tim Miller",
+    "description": "Skynet`s next target is a young girl named Dani Ramos, and a new Terminator prototype (Rev-9) from the future is sent to kill her. In order to protect Dani from Rev-9, Sarah Connor (Linda Hamilton) teams up with the original Terminator T-800 (Arnold Schwarzenegger) and a hybrid cyborg human named Grace.",
+    "year": 2019,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c442ea1210ac9bea8e81",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/harry-potter-and-the-goblet-of-fire-et00003450-06-04-2021-09-00-48.jpg",
+    "title": "Harry Potter & The Goblet Of Fire",
+    "director": "Tim Miller",
+    "description": "When Harry Potter`s name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools - the Triwizard Tournament.",
+    "year": 2005,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        {
+          "time": "07:00 AM",
+          "seats": 0,
+          "id": "show_20241015_1",
+          "bookings": [
+            {
+              "name": "Sanjai Kannan G",
+              "email": "sanjaikannang@gmail.com",
+              "phoneNumber": 9345725595,
+              "seats": 100
+            }
+          ]
+        },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c474ea1210ac9bea8e82",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-et00042769-15-12-2020-08-08-47.jpg",
+    "title": "KGF",
+    "director": "Prashanth Neel",
+    "description": "A period drama set in the 1970s, KGF follows the story of a fierce rebel who rises against the brutal oppression in Kolar Gold Fields and becomes the symbol of hope to legions of downtrodden people.",
+    "year": 2018,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c498ea1210ac9bea8e83",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kantara-kannada-et00330541-1667307802.jpg",
+    "title": "Kantara (Telugu)",
+    "director": "Prashanth Neel",
+    "description": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?",
+    "year": 2022,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c4c2ea1210ac9bea8e84",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vishwaroopam--telugu--et00010074-24-03-2017-16-31-50.jpg",
+    "title": "Vishwaroopam (Telugu)",
+    "director": "Prashanth Neel",
+    "description": "Vishwanath alias Wiz, a Kathak exponent, and Nirupama, get married. Each have an agenda and seem to have achieved their wishes within three years of matrimony. Nirupama gets her Ph.D and Wiz runs his dance class in New Jersey, unhindered by each other. All is fine till Dr. Nirupama aspires for more and wants to opt out of the arranged marriage. She cannot cite any specific reason to leave Wiz as there is nothing to complain about. Every male according to Nirupama must have a flaw. So she decides to find out something about him to feel better about her decision to part. Nirupama then hires a detective to rake up something on him, wires get cross-connected and before we know it hell breaks loose.",
+    "year": 2013,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c4edea1210ac9bea8e85",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/star-et00396811-1714645559.jpg",
+    "title": "Star",
+    "director": "Elan",
+    "description": "The story unfolds as a beautiful ode to the bond between Mr. Pandian, a photographer, and his son, an actor. The father and son find solace, fulfillment, and redemption in their symbiotic relationship.",
+    "year": 2024,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c513ea1210ac9bea8e86",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dada-et00349087-1675324293.jpg",
+    "title": "DADA",
+    "director": "Ganesh K Babu",
+    "description": "Manikandan and Sindhu are in love and accidentally becomes teenage parents. They face obstacles and situations to bring up their son, Adithya.",
+    "year": 2023,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c535ea1210ac9bea8e87",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sulthan-et00305740-30-03-2021-11-21-35.jpg",
+    "title": "Sulthan",
+    "director": "Bakkiyaraj Kannan",
+    "description": "Sulthan revolves around a man who is left to deal with a 100 goons after his father`s demise and finds himself stuck between the path of violence and the road to his passion.",
+    "year": 2021,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  },
+  {
+    "_id": "6704c55dea1210ac9bea8e88",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/veeram-tamil-et00016903-28-10-2020-05-21-49.jpg",
+    "title": "VEERAM",
+    "director": "Siva",
+    "description": "Ajith is back, and this time its a rural avatar. Set in the backdrop of a village, Ajith sports a white veshti with his usual salt and pepper look. Veeram, as the name suggests, is an action-packed drama revolving around Ajith and his brothers Vidharth, (`Myna` fame), Bala, Suhail and Munish. The film is much-anticipated because of the fresh pairing of Tamannaah and Ajith, punchy dialogues and DSPs foot-tapping numbers which are already a hit. Pradeep Rawath, Naseer and Santanam also appear in pivotal roles.",
+    "year": 2014,
+    "genre": "Action,Drama,Thriller",
+    "shows": {
+      "2024-10-15": [
+        { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+        { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+      ],
+      "2024-10-16": [
+        { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+        { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+      ],
+      "2024-10-17": [
+        { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+        { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+      ],
+      "2024-10-18": [
+        { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+        { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+      ],
+      "2024-10-19": [
+        { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+        { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+      ],
+      "2024-10-20": [
+        { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+        { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+      ]
+    }
+  }
+]

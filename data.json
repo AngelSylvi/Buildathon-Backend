@@ -1,0 +1,645 @@
+[
+    {
+      "_id": "6703d95f72875f399d5d1aa3",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227513/MV5BMjA3NjQ2ODYwN15BMl5BanBnXkFtZTgwNTQ0NDc2MDE_._V1__eozyyx.jpg",
+      "title": "Son Of God",
+      "director": "Christopher Spencer",
+      "description": "After leaving his hometown, Jesus Christ accumulates a huge amount of followers through his teachings and miracles. Fearing his sudden growth, his enemies plot to annihilate him.",
+      "year": 2014,
+      "genre": "Drama/History",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 16,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 10
+              },
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 30
+              },
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 10
+              },
+              {
+                "name": "vasanth",
+                "email": "vasanth@gmail.com",
+                "phoneNumber": "988787877",
+                "seats": 2
+              },
+              { "name": "sad", "email": "asd", "phoneNumber": "334", "seats": 2 }
+            ]
+          }
+        ],
+        "2024-10-16": [
+          { "time": "05:00 PM", "seats": 130, "id": "show_20241016_1" },
+          {
+            "time": "08:00 PM",
+            "seats": 40,
+            "id": "show_20241016_2",
+            "bookings": [
+              {
+                "name": "sanjai",
+                "email": "sanjai@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 15
+              },
+              {
+                "name": "Gokul",
+                "email": "gokul@gmail.com",
+                "phoneNumber": 1234567890,
+                "seats": 5
+              }
+            ]
+          }
+        ],
+        "2024-10-17": [
+          { "time": "05:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "08:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "05:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "08:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "05:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "08:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "05:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "08:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bed708b5c5629eb8661b",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227541/MV5BMjJhNmIzNTYtNTBkNS00NzZiLTgzMTItNDdmZjNlZmY2MTEzXkEyXkFqcGc_._V1__qeapgw.jpg",
+      "title": "The Case for Christ",
+      "director": "Jon Gunn",
+      "description": "Perturbed by his wife's religious conversion, an atheistic journalist relies on his investigative skills to debunk the myths associated with Christianity.",
+      "year": 2017,
+      "genre": "Drama/History",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 88,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "Sanjai Kannan G",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9345725595,
+                "seats": 12
+              }
+            ]
+          },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bf4708b5c5629eb8661c",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227582/MV5BMjEwNDQ3MzYyOV5BMl5BanBnXkFtZTgwNDE0ODM3MDE_._V1__zojflt.jpg",
+      "title": "God's Not Dead",
+      "director": "Harold Cronk",
+      "description": "After he refuses to disavow his faith, a devout Christian student must prove the existence of God or else his college philosophy professor will fail him.",
+      "year": 2014,
+      "genre": "Drama/Romance",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bf8b08b5c5629eb8661d",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227599/MV5BMjIxNTExMDk4NF5BMl5BanBnXkFtZTgwODM0MDczNzE_._V1__suzzzd.jpg",
+      "title": "God's Not Dead 2",
+      "director": "Harold Cronk",
+      "description": "High school history teacher Grace Wesley (Melissa Joan Hart) comes under fire for answering a student's (Hayley Orrantia) question about Jesus. When Grace refuses to apologize, the school board votes to suspend her and threatens to revoke her teaching certificate. Forced to stand trial to save her career, Grace hires young lawyer Tom Endler (Jesse Metcalfe) to defend her in court. Endler devises a powerful strategy to show the jury the historical significance of Wesley's classroom discussion.",
+      "year": 2016,
+      "genre": "Drama/Melodrama",
+      "shows": {
+        "2024-10-15": [
+          {
+            "time": "07:00 AM",
+            "seats": 98,
+            "id": "show_20241015_1",
+            "bookings": [
+              {
+                "name": "asdsf",
+                "email": "sdff@gmail.com",
+                "phoneNumber": "445454545",
+                "seats": 2
+              }
+            ]
+          },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bfc808b5c5629eb8661e",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227653/p8718241_p_v8_ae_th8kka.jpg",
+      "title": "Arthur Christmas",
+      "director": "Sarah Smith",
+      "description": "When Santa's gawky son Arthur learns that owing to a technical malfunction a little girl's Christmas gift has been misplaced, he sets out on a mission to deliver the present before it is too late.",
+      "year": 2011,
+      "genre": "Family/Comedy",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704bff208b5c5629eb8661f",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227676/MV5BNTdmOTk5ZDQtN2JlMS00OTU2LWFlNjYtNTNjYjExZGFlOWZmXkEyXkFqcGc_._V1__x2qlq1.jpg",
+      "title": "The Pilgrim's Progress",
+      "director": "Robert Fernandez",
+      "description": "Christian, a devout pilgrim, sets out on a journey from the City of Destruction to the Celestial City while overcoming every distraction and obstacle on his way.",
+      "year": 2019,
+      "genre": "Family/Adventure ",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c01d08b5c5629eb86620",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227726/61fdrYbe4_L._AC_UF894_1000_QL80__fk3eoy.jpg",
+      "title": "Letters to God",
+      "director": "David Nixon",
+      "description": "A young boy who has cancer decides to write letters to God to help him through the situation. A postman picks up the first letter and is clueless about what to do with it.",
+      "year": 2010,
+      "genre": " Family/Thriller",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c04f08b5c5629eb86621",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227812/MV5BMmVlOGUxYjktY2E4ZC00N2U3LWEzNzYtOWEyNTkwNzUwMTVmXkEyXkFqcGc_._V1__dcydez.jpg",
+      "title": "I Believe",
+      "director": "Juergen Peretzki, Stacey Peretzki",
+      "description": "When a nine-year-old boy experiences a supernatural encounter with God, it sets him on a quest to learn more about Christian beliefs. However, his father, an atheist, does not like his activities.",
+      "year": 2017,
+      "genre": "Family/Drama",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c06d08b5c5629eb86622",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227709/Courageous_Cover_us4vio.jpg",
+      "title": "Courageous",
+      "director": "Alex Kendrick",
+      "description": "Four law enforcement officers find it hard to achieve a work-life balance. However, they try their best to fight crime while looking after their children and wives.",
+      "year": 2011,
+      "genre": "Action/Drama",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c0a508b5c5629eb86623",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729228020/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE_._V1__itqtzs.jpg",
+      "title": "War Room",
+      "director": "Alex Kendrick",
+      "description": "The Jordan family looks ideal on the surface, yet has many cracks underneath. When Miss Clara observes this, she tries to guide them and help them unite again with the help of prayer.",
+      "year": 2015,
+      "genre": "Drama/Melodrama ",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          {
+            "time": "06:00 PM",
+            "seats": 48,
+            "id": "show_20241016_2",
+            "bookings": [
+              {
+                "name": "PADMANABAN V",
+                "email": "sanjaikannang@gmail.com",
+                "phoneNumber": 9442024941,
+                "seats": 12
+              }
+            ]
+          }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c16108b5c5629eb86624",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729228058/MV5BZDlkOTQ5MjYtOGY0ZC00NWU1LThkMjktMTFiZjdkMDE0MDE2XkEyXkFqcGc_._V1__lcctxm.jpg",
+      "title": "The Bible",
+      "director": "Roma Downey and Mark Burnett",
+      "description": "A religious dramatic miniseries about God's creation and physical landmark events leading up to the Crucifixion and Resurrection of Jesus Christ.",
+      "year": 2013,
+      "genre": "Drama",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c19eea1210ac9bea8e77",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729228078/MV5BMzU4Nzg1MDIyNl5BMl5BanBnXkFtZTgwNzE5MTc0NDE_._V1__eztn6g.jpg",
+      "title": "AD The Bible Continues",
+      "director": "Ciaran Donnelly; Tony Mitchell; Brian Kelly; Rob Evans; Paul Wilmshurst",
+      "description": "When Jesus is crucified by Pontius Pilate, the unparalleled impact of his death and resurrection on his followers, the Jewish elders and the Romans lays the foundation for a new religion.",
+      "year": 2015,
+      "genre": "Drama",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c1c6ea1210ac9bea8e78",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227890/enmagane-1_dwxjy5.jpg",
+      "title": "En Magane",
+      "director": "Jay Ruben",
+      "description": "A personal encounter with God",
+      "year": 2015,
+      "genre": "Drama/Thriller",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c1f7ea1210ac9bea8e79",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227759/maxresdefault_ogtwzu.jpg",
+      "title": "Oliyai Thedi",
+      "director": "Charu Hassan",
+      "description": "What is Christianity...",
+      "year": 2018,
+      "genre": "Drama/Thriller",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c239ea1210ac9bea8e7a",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227775/maxresdefault_shhphl.jpg",
+      "title": "Oliyai Thedi 2",
+      "director": "Charu Hassan ",
+      "description": "How Christianity is connected in our daily life",
+      "year": 2020,
+      "genre": "Drama/Thriller",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    },
+    {
+      "_id": "6704c265ea1210ac9bea8e7b",
+      "image": "https://res.cloudinary.com/djtiaf9oa/image/upload/v1729227963/maxresdefault_rluaig.jpg",
+      "title": "Ithu Nijam",
+      "director": "Jessy Subash ",
+      "description": "The signs of God are true",
+      "genre": "Drama/Thriller",
+      "shows": {
+        "2024-10-15": [
+          { "time": "07:00 AM", "seats": 100, "id": "show_20241015_1" },
+          { "time": "10:00 AM", "seats": 50, "id": "show_20241015_2" }
+        ],
+        "2024-10-16": [
+          { "time": "03:00 PM", "seats": 130, "id": "show_20241016_1" },
+          { "time": "06:00 PM", "seats": 60, "id": "show_20241016_2" }
+        ],
+        "2024-10-17": [
+          { "time": "10:00 PM", "seats": 130, "id": "show_20241017_1" },
+          { "time": "01:00 PM", "seats": 60, "id": "show_20241017_2" }
+        ],
+        "2024-10-18": [
+          { "time": "07:00 PM", "seats": 130, "id": "show_20241018_1" },
+          { "time": "11:00 PM", "seats": 60, "id": "show_20241018_2" }
+        ],
+        "2024-10-19": [
+          { "time": "04:00 PM", "seats": 130, "id": "show_20241019_1" },
+          { "time": "07:00 PM", "seats": 60, "id": "show_20241019_2" }
+        ],
+        "2024-10-20": [
+          { "time": "02:00 PM", "seats": 130, "id": "show_20241020_1" },
+          { "time": "05:00 PM", "seats": 60, "id": "show_20241020_2" }
+        ]
+      }
+    }]
+    
